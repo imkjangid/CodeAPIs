@@ -44,10 +44,22 @@ A curated collection of Python API integration examples and best practices, feat
     pip install -r requirements.txt
     ```
 
+    OR
+
+    ```sh
+    pip install fastapi[all]
+    ```
+
     **For Django REST Framework:**
     ```sh
     cd drf_examples/[project_folder]
     pip install -r requirements.txt
+    ```
+
+    OR
+
+    ```sh
+    pip install django djangorestframework
     ```
 
 3.  **Run the application:**
